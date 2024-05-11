@@ -12,7 +12,7 @@ This script extracts decrypted global-metadata.dat from AFK Journey by utilizing
 
 ## How to Use
 1. Run the `Decrypt.py` and launch AFK Journey.
-2. If you want the dumped metadata to be compatible with Il2CPPDumper, Bepinex, etc., enter `0` when prompted.
+2. If you want the dumped metadata to be compatible with Il2CPPDumper, Bepinex, etc., simply press Enter or input 1, which is taken as the default when prompted.
 3. The `decrypted-global-metadata.dat` file will be created in the directory where you ran the Python script.
 
 ### Note
